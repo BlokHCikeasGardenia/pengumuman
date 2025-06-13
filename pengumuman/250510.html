@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Notulen Rapat RT 10 Mei 2025</title>
+  <title>Notulen Rapat 10 Mei 2025</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
@@ -19,12 +19,12 @@
       flex-wrap: wrap;
       gap: 10px;
       margin-bottom: 25px;
+      justify-content: flex-start;
     }
     .back, .home-btn {
-      flex: 1 1 180px;
       background: #23408e;
       color: #fff;
-      padding: 11px 0;
+      padding: 7px 18px;
       border-radius: 8px;
       text-decoration: none;
       text-align: center;
@@ -32,10 +32,12 @@
       font-weight: 600;
       border: none;
       transition: background 0.2s;
+      box-shadow: 0 2px 8px rgba(40,64,142,0.08);
+      min-width: 140px;
+      max-width: 210px;
       margin-bottom: 0;
       margin-right: 0;
-      box-shadow: 0 2px 8px rgba(40,64,142,0.08);
-      max-width: 220px;
+      display: inline-block;
     }
     .back:hover, .home-btn:hover {
       background: #0b1e3c;
@@ -53,15 +55,19 @@
         font-size: 1.15em;
         margin-bottom: 1em;
       }
-      .back, .home-btn {
-        font-size: 0.95em;
-        padding: 0 0;
-        border-radius: 6px;
-        max-width: 100%;
-      }
       .button-row {
-        flex-direction: column;
+        flex-direction: row;
         gap: 8px;
+        justify-content: flex-start;
+      }
+      .back, .home-btn {
+        font-size: 1em;
+        padding: 7px 12px;     /* Lebih ramping, tidak terlalu tinggi */
+        border-radius: 6px;
+        min-width: 0;
+        max-width: 140px;      /* Tidak terlalu lebar */
+        width: auto;           /* Tidak memenuhi parent */
+        box-sizing: border-box;
       }
       li, p, ul, ol {
         font-size: 1em;
@@ -72,7 +78,7 @@
 <body>
   <div class="button-row">
     <a class="back" href="../index.html">&larr; Kembali ke Daftar Pengumuman</a>
-    <a class="home-btn" href="https://blokhcikeasgardenia.github.io/home">🏠 Beranda</a>
+    <a class="home-btn" href="https://blokhcikeasgardenia.github.io/">🏠 Beranda</a>
   </div>
   <h1>Notulen Rapat 10 Mei 2025</h1>
   <p>
