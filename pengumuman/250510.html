@@ -3,33 +3,76 @@
 <head>
   <title>Notulen Rapat 10 Mei 2025</title>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
-    body { font-family: Arial, sans-serif; max-width: 700px; margin: 40px auto; }
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 700px;
+      margin: 40px auto;
+      padding: 0 10px;
+      background: #f9f9fc;
+    }
     h1 { color: #23408e; }
     h2, h3 { color: #23408e; }
+    .button-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 25px;
+    }
     .back, .home-btn {
-      display: inline-block;
+      flex: 1 1 180px;
       background: #23408e;
       color: #fff;
-      padding: 8px 18px;
-      border-radius: 5px;
+      padding: 18px 0;
+      border-radius: 8px;
       text-decoration: none;
-      margin-bottom: 20px;
-      margin-right: 10px;
-      font-size: 1em;
+      text-align: center;
+      font-size: 1.12em;
+      font-weight: 600;
+      border: none;
       transition: background 0.2s;
+      margin-bottom: 0;
+      margin-right: 0;
+      box-shadow: 0 2px 8px rgba(40,64,142,0.08);
     }
     .back:hover, .home-btn:hover {
       background: #0b1e3c;
     }
     ol, ul { margin-left: 20px; }
     .section { margin-bottom: 30px; }
+
+    @media (max-width: 480px) {
+      body {
+        max-width: 100%;
+        margin: 0;
+        padding: 0 5px;
+      }
+      h1 {
+        font-size: 1.3em;
+        margin-bottom: 1em;
+      }
+      .back, .home-btn {
+        font-size: 1em;
+        padding: 16px 0;
+        border-radius: 6px;
+      }
+      .button-row {
+        flex-direction: column;
+        gap: 8px;
+      }
+      li, p, ul, ol {
+        font-size: 1em;
+      }
+    }
   </style>
 </head>
 <body>
-  <a class="back" href="../index.html">&larr; Kembali ke Daftar Pengumuman</a>
-  <a class="home-btn" href="../index.html">🏠 Beranda</a>
-  <h1>Notulen Rapat 10 Mei 2025</h1>
+  <div class="button-row">
+    <a class="back" href="../index.html">&larr; Kembali ke Daftar Pengumuman</a>
+    <a class="home-btn" href="../index.html">🏠 Beranda</a>
+  </div>
+  <h1>Notulen Rapat RT 10 Mei 2025</h1>
   <p>
     <strong>Bismillah...</strong> <br>
     <strong>Assalamu'alaikum wr wb.</strong>
