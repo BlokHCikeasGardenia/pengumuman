@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Notulen Rapat 10 Mei 2025</title>
+  <meta charset="UTF-8">
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 700px; margin: 40px auto; }
+    h1 { color: #23408e; }
+    h2, h3 { color: #23408e; }
+    .back, .home-btn {
+      display: inline-block;
+      background: #23408e;
+      color: #fff;
+      padding: 8px 18px;
+      border-radius: 5px;
+      text-decoration: none;
+      margin-bottom: 20px;
+      margin-right: 10px;
+      font-size: 1em;
+      transition: background 0.2s;
+    }
+    .back:hover, .home-btn:hover {
+      background: #0b1e3c;
+    }
+    ol, ul { margin-left: 20px; }
+    .section { margin-bottom: 30px; }
+  </style>
+</head>
+<body>
+  <a class="back" href="../index.html">&larr; Kembali ke Daftar Pengumuman</a>
+  <a class="home-btn" href="../index.html">🏠 Beranda</a>
+  <h1>Notulen Rapat 10 Mei 2025</h1>
+  <p>
+    <strong>Bismillah...</strong> <br>
+    <strong>Assalamu'alaikum wr wb.</strong>
+  </p>
+  <div class="section">
+    <p>Berikut kami sampaikan notulen rapat pertemuan warga RT 002 RW 021 yang telah diadakan pada:</p>
+    <ul>
+      <li><strong>Hari/Tanggal:</strong> Sabtu, 10 Mei 2025</li>
+      <li><strong>Waktu:</strong> 20.00 s/d 23.30</li>
+      <li><strong>Tempat:</strong> Gedung Serba Guna Blok H</li>
+      <li><strong>Jumlah Peserta:</strong> 40 orang</li>
+    </ul>
+    <p>Telah diputuskan beberapa kesepakatan sebagai berikut:</p>
+  </div>
+
+  <div class="section">
+    <h2>IPL</h2>
+    <ol>
+      <li>IPL adalah kewajiban warga blok H yang harus ditunaikan sebagai bentuk tanggung jawab sebagai warga.</li>
+      <li>Pengurus telah dan sedang melakukan upaya untuk memfasilitasi warga agar mudah melakukan pembayaran IPL. Penunjukan ketua lorong, pembuatan Qris Dana dan Bank, transparansi dalam keuangan adalah bentuk upaya untuk membuat warga lebih mudah dalam melakukan transaksi.</li>
+      <li>Jika ada warga yg menunggak IPL sampai 3 bulan, hak untuk dilakukan penarikan sampah akan diputus. Ketua lorong berkewajiban hanya mengingatkan, dan pengurus RT akan melakukan pendekatan kepada warga yg menunggak tersebut.</li>
+      <li>Jika setelah dilakukan pendekatan oleh pengurus dan didapati permasalahan ekonomi bagi warga yg menunggak, akan ditawarkan solusi pekerjaan perawatan toren dengan upah yang akan dikeluarkan bendahara dicatat sebagai pengeluaran maintenance dan dimasukan kembali ke dalam kas sebagai pembayaran IPL ybs.</li>
+      <li>Besaran gaji security telah disepakati untuk Mbah Ngadino sebesar Rp. 1.560.000 di mana yang Rp. 60.000 akan dimasukan ke kas dengan catatan untuk pembayaran IPL dan DAU. Untuk Pa Anim ditetapkan sebesar Rp. 1.005.000, yang 5.000 akan dipotong untuk disetorkan sebagai DAU.</li>
+      <li>Rumah kosong tanpa penghuni akan dikenakan biaya keamanan dan kas dengan nominal yg disepakati sebesar Rp. 30.000. Jika ada warga yg memiliki lebih dari 1 rumah dan rumah tsb kosong, maka warga tetap membayar IPL 1 kali, dan jika rumah tersebut dikontrakan maka dikenakan IPL untuk rumah tsb.</li>
+      <li>Dana Sosial akan dikeluarkan bagi warga (keluarga inti) yg sakit dengan nominal Rp. 250.000, dengan ketentuan sebagai berikut:
+        <ol type="a">
+          <li>Warga yg sakit dan dirawat di rumah sakit karena sakit yang menyebabkan ybs tidak bisa melakukan aktifitas keseharian, jika dalam sebulan mengharuskan dirawat lebih dari sekali maka disepakati akan dikeluarkan dana sosial sebanyak 1 kali</li>
+          <li>Jika dalam 1 keluarga ada yg sakit dan dirawat lebih dari 1 orang, dana sosial akan dikeluarkan 1 kali</li>
+          <li>Warga yg sakit minimal 2 hari tetapi tidak ke rumah sakit karena ketidakmampuan ybs.</li>
+          <li>Warga yg sakit menahun untuk dana sosial dikeluarkan maksimal 2 kali dalam setahun.</li>
+          <li>Dana duka cita jika ada warga yg meninggal dunia, disepakati pengurus RT akan mengeluarkan nominal sebesar Rp. 400.000 untuk dipergunakan keperluan warga yg kedukaan dengan teknis pengelolaan oleh ketua lorong atau tetangga terdekat.</li>
+          <li>Penerima dana sosial dan dana duka cita adalah warga dan keluarga inti yang tinggal di lingkungan blok H</li>
+          <li>Sangat diharapkan peran serta ketua lorong untuk menginformasikan jika ada warga yg sakit dengan kriteria yg sudah ditentukan agar hak warga terpenuhi.</li>
+        </ol>
+      </li>
+    </ol>
+  </div>
+
+  <div class="section">
+    <h2>Air</h2>
+    <ol>
+      <li>Air adalah salah satu asset Blok H yg dikelola oleh pengurus RT dan dimanfaatkan untuk sebesar-besar kepentingan bersama.</li>
+      <li>Pelanggan Air berhak atas pasokan air bersih yg rutin.</li>
+      <li>Pelanggan berkewajiban membayar iuran air sesuai dengan pemakaian yg tercatat dalam meter air.</li>
+      <li>Pengelola akan terus berupaya melakukan improvement guna menjaga pasokan air bersih yg layak bagi pelanggan.</li>
+      <li>Sanksi atas tunggakan. Bagi warga yg menunggak pembayaran air sampai 125 kubik atau senilai Rp. 500.000 maka disepakati pengelola akan memutus pasokan air dan menyita meteran.</li>
+    </ol>
+  </div>
+
+  <p>Terima kasih atas perhatian dan kerjasama seluruh warga.</p>
+  <p><strong>Wassalamu'alaikum wr wb.</strong></p>
+</body>
+</html>
