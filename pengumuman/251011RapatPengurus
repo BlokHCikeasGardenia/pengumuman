@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SOP Pengamanan Komplek</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Arial, sans-serif;
+      margin: 40px auto;
+      max-width: 900px;
+      line-height: 1.6;
+      color: #222;
+      background: #f9f9f9;
+      padding: 20px;
+    }
+    h1, h2, h3, h4 {
+      color: #1b3a57;
+      margin-top: 1.5em;
+    }
+    h1 {
+      text-align: center;
+      text-transform: uppercase;
+      font-size: 1.8em;
+    }
+    ul {
+      margin: 0.5em 0 0.5em 1.5em;
+    }
+    li {
+      margin-bottom: 0.4em;
+    }
+    .section {
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      padding: 20px;
+      margin-bottom: 30px;
+    }
+    .sublist {
+      margin-left: 1.5em;
+      list-style-type: circle;
+    }
+    footer {
+      text-align: center;
+      margin-top: 50px;
+      font-size: 0.9em;
+      color: #555;
+    }
+    .legal {
+      background: #eef6ff;
+      border-left: 5px solid #1b3a57;
+      padding: 15px;
+      font-size: 0.95em;
+      margin-bottom: 30px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>STANDAR OPERASIONAL PROSEDUR (SOP) PENGAMANAN KOMPLEK</h1>
+
+  <div class="legal">
+    <strong>Dasar Hukum:</strong><br>
+    Ditetapkan berdasarkan hasil <strong>Rapat Pengurus RT</strong> pada hari <strong>Sabtu, 11 Oktober 2025</strong>, 
+    bertempat di <strong>Fasilitas Umum (Fasum) Posyandu</strong>.
+  </div>
+
+  <div class="section">
+    <h2>1. TUJUAN</h2>
+    <ul>
+      <li>Menjamin dan memelihara keamanan, ketertiban, dan kenyamanan seluruh penghuni, pengunjung, dan aset yang berada di dalam lingkungan komplek.</li>
+      <li>Sebagai panduan standar bagi petugas keamanan (satpam) dalam melaksanakan tugasnya secara konsisten dan profesional.</li>
+      <li>Mencegah terjadinya pelanggaran keamanan dan gangguan ketertiban.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>2. RUANG LINGKUP</h2>
+    <p>Prosedur ini berlaku untuk semua petugas keamanan yang bertugas di pos pengamanan dan yang sedang melakukan patroli di lingkungan komplek.</p>
+  </div>
+
+  <div class="section">
+    <h2>3. DEFINISI</h2>
+    <ul>
+      <li><strong>Penghuni:</strong> Pemilik atau penyewa unit yang tercatat di management komplek.</li>
+      <li><strong>Tamu/Pengunjung:</strong> Individu atau kelompok yang datang ke komplek untuk suatu keperluan.</li>
+      <li><strong>Vendor/Tenaga Kerja:</strong> Pihak luar yang melakukan pekerjaan di dalam komplek.</li>
+      <li><strong>Insiden:</strong> Setiap kejadian yang mengganggu keamanan dan ketertiban, seperti pencurian, vandalisme, pelanggaran prosedur, atau kecelakaan.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>4. PROSEDUR OPERASIONAL</h2>
+
+    <h3>4.1. Tugas Pos Keamanan Utama (Posko)</h3>
+
+    <h4>4.1.1. Penerimaan dan Serah Terima Tugas (Briefing)</h4>
+    <ul>
+      <li>Petugas shift masuk datang 15 menit sebelum jadwal.</li>
+      <li>Melakukan serah terima shift dengan petugas sebelumnya, termasuk:
+        <ul class="sublist">
+          <li>Kondisi keamanan selama shift sebelumnya.</li>
+          <li>Informasi kendaraan mencurigakan atau tamu yang perlu diperhatikan.</li>
+          <li>Penyerahan barang titipan atau surat.</li>
+          <li>Penyerahan peralatan (buku tamu, HT, senter, dll).</li>
+        </ul>
+      </li>
+      <li>Mencatat poin-poin penting dalam Buku Laporan Harian (Logbook).</li>
+    </ul>
+
+    <h4>4.1.2. Pengendalian Akses Keluar-Masuk</h4>
+    <ul>
+      <li><strong>Kendaraan Penghuni:</strong>
+        <ul class="sublist">
+          <li>Berikan salam dan anggukan kepala sebagai bentuk pengakuan.</li>
+          <li>Lakukan pemeriksaan visual terhadap kendaraan yang mencurigakan.</li>
+          <li>Untuk komplek tertutup, identifikasi stiker kendaraan bisa diterapkan.</li>
+        </ul>
+      </li>
+      <li><strong>Kendaraan Tamu/Pengunjung:</strong>
+        <ul class="sublist">
+          <li>Hentikan kendaraan dengan sopan.</li>
+          <li>Tanyakan tujuan, nama yang dituju, dan alamat/unit/blok yang dikunjungi.</li>
+          <li>Hubungi penghuni yang dituju via telepon/interkom untuk konfirmasi.</li>
+          <li>Catat di Buku Tamu: nama tamu, jenis kendaraan, plat nomor, waktu masuk, dan tujuan.</li>
+          <li>Berikan kartu pas (jika ada) dan arahkan untuk parkir di area tamu.</li>
+        </ul>
+      </li>
+      <li><strong>Kendaraan Vendor/Tenaga Kerja:</strong>
+        <ul class="sublist">
+          <li>Minta menunjukkan Surat Izin Kerja atau identitas dari kontraktor/pengelola.</li>
+          <li>Catat detailnya di Buku Vendor/Tenaga Kerja.</li>
+          <li>Pastikan mereka hanya bekerja di area yang telah ditentukan.</li>
+        </ul>
+      </li>
+    </ul>
+
+    <h3>4.2. Tugas Patroli</h3>
+
+    <h4>4.2.1. Rute dan Waktu Patroli</h4>
+    <ul>
+      <li>Patroli dilakukan secara berkala (setiap 1–2 jam) dengan rute yang tidak tetap (random).</li>
+      <li>Gunakan aplikasi patroli (jika ada) atau titik periksa (checkpoint) yang harus dipindai/dicatat.</li>
+    </ul>
+
+    <h4>4.2.2. Area yang Harus Dipantau</h4>
+    <ul>
+      <li>Seluruh area jalan lingkungan komplek.</li>
+      <li>Area parkir mobil dan motor.</li>
+      <li>Fasilitas umum (taman, kolam renang, gym, playground).</li>
+      <li>Tangga darurat dan area terpencil.</li>
+      <li>Perimeter (pagar keliling) komplek.</li>
+    </ul>
+
+    <h4>4.2.3. Tindakan Selama Patroli</h4>
+    <ul>
+      <li>Periksa apakah semua pintu akses, gerbang, dan pagar dalam kondisi terkunci atau normal.</li>
+      <li>Waspada terhadap orang, kendaraan, atau aktivitas mencurigakan.</li>
+      <li>Periksa kondisi fasilitas umum, lampu penerangan jalan, dan peralatan lainnya.</li>
+      <li>Jika menemui penghuni, berikan salam dan tawarkan bantuan jika diperlukan.</li>
+    </ul>
+
+    <h3>4.3. Penanganan Insiden / Kejadian Khusus</h3>
+
+    <h4>4.3.1. Pelanggaran Prosedur oleh Penghuni/Tamu</h4>
+    <ul>
+      <li>Sampaikan dengan sopan dan profesional mengenai pelanggaran yang terjadi (contoh: parkir sembarangan).</li>
+      <li>Jika terjadi penolakan, laporkan segera kepada Koordinator Keamanan dan Manajemen Komplek.</li>
+    </ul>
+
+    <h4>4.3.2. Menemukan Orang Asing Mencurigakan</h4>
+    <ul>
+      <li>Dekati dengan sopan dan tanyakan maksud dan tujuannya.</li>
+      <li>Minta identitas diri.</li>
+      <li>Jika dianggap mengancam, segera hubungi Koordinator Keamanan dan lakukan pengawasan dari jarak aman.</li>
+      <li>Jika diperlukan, hubungi kepolisian (110).</li>
+    </ul>
+
+    <h4>4.3.3. Kejadian Kriminal (Pencurian, Vandalisme)</h4>
+    <ul>
+      <li>Jangan memasuki area kejadian untuk melindungi bukti.</li>
+      <li>Segera laporkan kepada Koordinator Keamanan dan Kepolisian.</li>
+      <li>Amankan area kejadian dan larang orang lain memasuki area tersebut.</li>
+      <li>Bantu mengumpulkan informasi dari saksi dan penghuni sekitar.</li>
+    </ul>
+
+    <h4>4.3.4. Keadaan Darurat (Kebakaran, Kecelakaan, Medis)</h4>
+    <ul>
+      <li>Segera hubungi layanan darurat yang relevan (Pemadam 113, Ambulans 118, Polisi 110).</li>
+      <li>Laporkan ke Koordinator Keamanan dan Manajemen Komplek.</li>
+      <li>Evakuasi warga jika diperlukan dan amankan area.</li>
+      <li>Bantu petugas darurat saat tiba di lokasi.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>5. DOKUMENTASI DAN PELAPORAN</h2>
+    <ul>
+      <li><strong>Buku Laporan Harian (Logbook):</strong> Catat setiap kejadian, pelanggaran, aktivitas mencurigakan, dan tindakan yang dilakukan dengan rinci (waktu, lokasi, deskripsi, tindakan).</li>
+      <li><strong>Laporan Shift:</strong> Buat laporan singkat di akhir shift untuk diserahkan kepada Koordinator.</li>
+      <li><strong>Laporan Insiden:</strong> Untuk kejadian penting, buat laporan insiden terpisah yang lebih detail.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>6. PERALATAN DAN PENAMPILAN</h2>
+    <ul>
+      <li><strong>Penampilan:</strong> Seragam harus rapi, bersih, dan lengkap. ID Card harus dikenakan.</li>
+      <li><strong>Peralatan:</strong> Pastikan peralatan seperti HT, senter, alat tulis, dan lainnya berfungsi dengan baik. Dilarang keras menggunakan alat yang tidak disetujui.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>7. TANGGUNG JAWAB</h2>
+    <ul>
+      <li><strong>Petugas Keamanan:</strong> Melaksanakan seluruh prosedur dengan penuh integritas.</li>
+      <li><strong>Koordinator Keamanan:</strong> Mengawasi, mengevaluasi kinerja petugas, dan menjadi penghubung dengan Manajemen Komplek.</li>
+    </ul>
+  </div>
+
+  <footer>
+    &copy; 2025 Manajemen Komplek. Semua hak dilindungi.
+  </footer>
+
+</body>
+</html>
