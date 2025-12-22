@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <title>Notulen Rapat Warga RT 002 RW 021 - 20 Desember 2025</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 700px;
+      margin: 40px auto;
+      padding: 0 10px;
+      background: #eef2f6;
+      color: #222;
+    }
+    h1, h2 {
+      color: #23408e;
+    }
+    .button-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 25px;
+    }
+    .back, .home-btn {
+      background: #23408e;
+      color: #fff;
+      padding: 7px 18px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 0.95em;
+      font-weight: 600;
+      box-shadow: 0 2px 8px rgba(40,64,142,0.08);
+      transition: background 0.2s;
+    }
+    .back:hover, .home-btn:hover {
+      background: #0b1e3c;
+    }
+    .section {
+      margin-bottom: 30px;
+      background: #ece2d0;
+      border-radius: 7px;
+      box-shadow: 0 1px 4px #0001;
+      padding: 18px 14px;
+    }
+    ul, ol {
+      margin-left: 20px;
+    }
+    p {
+      line-height: 1.6;
+    }
+    @media (max-width: 480px) {
+      body {
+        margin: 0;
+        padding: 0 6px;
+      }
+      h1 {
+        font-size: 1.2em;
+      }
+      .section {
+        padding: 12px 8px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="button-row">
+    <a class="back" href="../index.html">&larr; Kembali ke Daftar Pengumuman</a>
+    <a class="home-btn" href="https://blokhcikeasgardenia.github.io/home/">🏠 Beranda</a>
+  </div>
+
+  <h1>Notulen Rapat Warga RT 002 RW 021</h1>
+
+  <p>
+    <strong>Bismillah</strong><br>
+    <strong>Assalamu’alaikum wr wb</strong><br>
+    Selamat pagi, semangat pagi Bapak-bapak warga Blok H.
+  </p>
+
+  <div class="section">
+    <p>
+      Berikut kami sampaikan <strong>Notulen hasil rapat warga RT 002 RW 021</strong>
+      yang diadakan pada:
+    </p>
+    <ul>
+      <li><strong>Hari / Tanggal:</strong> Sabtu, 20 Desember 2025</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Hasil Kesepakatan Rapat</h2>
+    <ol>
+      <li>
+        Telah disampaikan <strong>Laporan Pertanggungjawaban Panitia Pelaksana</strong>
+        serta dilakukan <strong>serah terima lapangan</strong> dari panitia kepada
+        Pengurus RT 002 RW 021.
+      </li>
+      <li>
+        Penanggung jawab lapangan ditetapkan kepada
+        <strong>Bapak Asep Supriadi</strong>.
+      </li>
+      <li>
+        Koordinator penggunaan lapangan ditetapkan kepada
+        <strong>Bapak Bahtari</strong>.
+      </li>
+      <li>
+        Telah disepakati <strong>penyesuaian IPL mulai bulan Januari 2026</strong>
+        sebesar <strong>Rp70.000 per KK</strong>, untuk menyesuaikan rencana
+        <strong>kenaikan iuran sampah, DAU, serta penambahan gaji security</strong>.
+        Rincian dan simulasi perhitungan akan dilampirkan bersama
+        <strong>surat edaran resmi</strong>.
+      </li>
+      <li>
+        Sewa lapangan Gedung Serba Guna bagi warga Blok H untuk kegiatan pribadi
+        seperti hajatan ditetapkan sebesar
+        <strong>Rp1.000.000</strong> untuk <strong>4 hari pemakaian</strong>.
+      </li>
+      <li>
+        Sewa lapangan Gedung Serba Guna oleh pihak luar ditetapkan sebesar
+        <strong>Rp2.000.000</strong> untuk <strong>4 hari pemakaian</strong>.
+      </li>
+      <li>
+        Pemanfaatan dana air, setelah dikurangi dana aman, akan digunakan untuk
+        <strong>perbaikan fasilitas umum lapangan</strong>, khususnya
+        <strong>perbaikan kebocoran atap</strong> dan
+        <strong>penambahan pasir lapangan voli</strong>.
+      </li>
+      <li>
+        Sebagai langkah antisipasi saat banjir, khususnya bagi pengendara roda dua
+        warga Blok H, akan diupayakan
+        <strong>akses darurat jalan masuk</strong> yang dibuka
+        <strong>hanya pada kondisi darurat banjir</strong>.
+      </li>
+    </ol>
+  </div>
+
+  <p>
+    Demikian Notulen hasil rapat ini disampaikan sebagai
+    <strong>mufakat bersama</strong> yang diperoleh dari pertemuan semalam,
+    agar dapat menjadi perhatian dan pedoman kita bersama.
+  </p>
+
+  <p>
+    <strong>Wassalamu’alaikum wr wb.</strong>
+  </p>
+
+</body>
+</html>
